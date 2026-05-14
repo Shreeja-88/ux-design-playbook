@@ -1,0 +1,3 @@
+# Behavioral Economics
+Behavioral Economics is a subfield of economics that studies the psychological, social, and emotional factors that influence decision-making and economic behavior. It seeks to understand why people make choices that deviate from the traditional economic model, which assumes that individuals behave rationally and seek to maximize their utility.
+- By incorporating insights from psychology and other social sciences, behavioral economics provides a more realistic understanding of human behavior in economic contexts. This can help designers create user experiences that better align with how people actually think and behave, leading to more effective and engaging products and services.

@@ -1,0 +1,4 @@
+# Behavior Design
+Behavior Design is an approach that combines elements of psychology, neuroscience, and design principles to understand and influence human behaviors. The goal behind behavior design is to make it easier for users to accomplish their goals or desired actions within a product, service, or system.
+
+- By understanding the underlying motivations, habits, and decision-making processes of users, designers can create experiences that encourage positive behaviors and discourage negative ones. This can lead to increased user engagement, satisfaction, and overall success of a product or service.
